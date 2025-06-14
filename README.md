@@ -17,7 +17,7 @@ It guides you through recipes, ingredients, substitutions, serving ideas, and mo
 
 ## Installation
 
-1️⃣ **Clone this repository:**
+**To clone this repository:**
 ```bash
 git clone https://github.com/ajheshbasnet/RAG-NEPALI-CHEF-BOT.git
 cd RAG-NEPALI-CHEF-BOT
