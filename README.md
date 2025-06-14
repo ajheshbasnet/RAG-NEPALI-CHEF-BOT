@@ -1,4 +1,4 @@
-# Nepali Chef Bot
+# RAG based Nepali Chef Bot
 
 Nepali Chef Bot is a chatbot designed to assist you in Nepali cooking.  
 It guides you through recipes, ingredients, substitutions, serving ideas, and more — all in a simple and friendly way.
