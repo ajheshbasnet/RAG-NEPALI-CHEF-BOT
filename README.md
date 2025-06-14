@@ -1,46 +1,23 @@
-# 🍽 Nepali Chef Bot
+# Nepali Chef Bot
 
-**Nepali Chef Bot** is a **Chatbot Application** designed to help you:
-
-✅ Prepare Nepali food.
-✅ Provide clear, step-by-step instructions.
-✅ Suggest ingredients, substitutions, and serving ideas.
-✅ Give you a rich, culturally-informed cooking experience — all powered by cutting-edge technologies.
+Nepali Chef Bot is a chatbot designed to assist you in Nepali cooking.  
+It guides you through recipes, ingredients, substitutions, serving ideas, and more — all in a simple and friendly way.
 
 ---
 
-## 🔹Tech Stack
+## Tech Stack
 
-- **Llama 3B-parameter Model:**  
-  Generating rich, human-like text responses and instructions.
-  
-- **Gemini 1.5 Flash:**  
-  Binding specialized tools and routing requests effectively.
-
-- **Qdrant:**  
-  Serves as a vector database for semantic search of Nepali cuisines.
-
-- **Langchain:**  
-  Orchestrates components, prompts, and tool-calls.
-
-- **Streamlit:**  
-  Powers a simple, interactive UI for the chatbot.
+- **Meta's Llama 3B-parameter Model:** Generating text and answers.
+- **Google's Gemini 1.5 Flash:** Binding specialized tools.
+- **Qdrant:** Semantic search for Nepali cuisines.
+- **Langchain:** Orchestrating components.
+- **Streamlit:** Providing a simple UI.
 
 ---
 
-## 🔹Features
-
-✅ Personalized Nepali food recipes  
-✅ Semantic search through Qdrant  
-✅ Generative answers powered by Llama 3B  
-✅ Tool orchestration with Gemini 1.5 Flash  
-✅ User-friendly Streamlit UI  
-
----
-
-## 🔹Installation
+## Installation
 
 1️⃣ **Clone this repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/RAG-NEPALI-CHEF-BOT.git
+git clone https://github.com/ajheshbasnet/RAG-NEPALI-CHEF-BOT.git
 cd RAG-NEPALI-CHEF-BOT
